@@ -1,12 +1,13 @@
+
 ---
 layout: post
-title: Practice
-cover: cover.jpg
-date:   2018-01-4
+title: First Post
+cover: logo.png
+date:   2018-01-05 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Samuel Coyle's First Post 
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
 

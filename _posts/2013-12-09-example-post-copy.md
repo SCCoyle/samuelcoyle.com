@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Practice
+title: Example post
 cover: cover.jpg
-date:   2018-01-4
+date:   2013-12-09 12:00:00
 categories: posts
 ---
 
